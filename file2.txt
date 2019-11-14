@@ -3,3 +3,5 @@ file2 created
 updated file2
 
 line3 added in file2
+
+line4 added
